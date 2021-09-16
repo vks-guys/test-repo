@@ -1,0 +1,13 @@
+C:\Users\vivek\source\repos\AspCoreDemoProject\InversionOfControl\bin\Debug\netcoreapp3.1\InversionOfControl.exe
+C:\Users\vivek\source\repos\AspCoreDemoProject\InversionOfControl\bin\Debug\netcoreapp3.1\InversionOfControl.deps.json
+C:\Users\vivek\source\repos\AspCoreDemoProject\InversionOfControl\bin\Debug\netcoreapp3.1\InversionOfControl.runtimeconfig.json
+C:\Users\vivek\source\repos\AspCoreDemoProject\InversionOfControl\bin\Debug\netcoreapp3.1\InversionOfControl.runtimeconfig.dev.json
+C:\Users\vivek\source\repos\AspCoreDemoProject\InversionOfControl\bin\Debug\netcoreapp3.1\InversionOfControl.dll
+C:\Users\vivek\source\repos\AspCoreDemoProject\InversionOfControl\bin\Debug\netcoreapp3.1\InversionOfControl.pdb
+C:\Users\vivek\source\repos\AspCoreDemoProject\InversionOfControl\obj\Debug\netcoreapp3.1\InversionOfControl.csprojAssemblyReference.cache
+C:\Users\vivek\source\repos\AspCoreDemoProject\InversionOfControl\obj\Debug\netcoreapp3.1\InversionOfControl.csproj.CoreCompileInputs.cache
+C:\Users\vivek\source\repos\AspCoreDemoProject\InversionOfControl\obj\Debug\netcoreapp3.1\InversionOfControl.AssemblyInfoInputs.cache
+C:\Users\vivek\source\repos\AspCoreDemoProject\InversionOfControl\obj\Debug\netcoreapp3.1\InversionOfControl.AssemblyInfo.cs
+C:\Users\vivek\source\repos\AspCoreDemoProject\InversionOfControl\obj\Debug\netcoreapp3.1\InversionOfControl.dll
+C:\Users\vivek\source\repos\AspCoreDemoProject\InversionOfControl\obj\Debug\netcoreapp3.1\InversionOfControl.pdb
+C:\Users\vivek\source\repos\AspCoreDemoProject\InversionOfControl\obj\Debug\netcoreapp3.1\InversionOfControl.genruntimeconfig.cache
